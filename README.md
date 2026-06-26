@@ -16,10 +16,8 @@ npm run build
 npm run test
 ```
 
-## GitHub Pages Deployment
+## Repository
 
-Deployment target mapping:
+This repository only contains the source for the Ornith landing page.
 
-`GitHub repository: gateszhangc/Ornith -> branch: main -> GitHub Pages project for gateszhangc/Ornith`
-
-Dokploy is not used for this site. The included workflow at `.github/workflows/pages.yml` builds `dist/` and deploys it with GitHub Pages when `main` is pushed.
+No deployment workflow is configured.
